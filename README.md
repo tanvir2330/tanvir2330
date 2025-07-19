@@ -1,10 +1,12 @@
 <!-- Profile Header -->
+<header>
 <div align="center">
-  <img src="Beige Simple Round Photo Valentines Card (1).png" width="800" alt="Profile Banner"/>
+  <img src="Beige Simple Round Photo Valentines Card (1).png" width="400" alt="Profile Banner"/>
 </div>
-
+<a>  <img src="Grey Minimalist Corporate Personal Profile LinkedIn Banner (1).gif" width="1200" alt="Profile Banner"/> </a>
+</header>
 <h1 align="center">Hi, I'm Tanvir Haider 👋</h1>
-<h3 align="center">Android Mobile App Developer | Kotlin | Java | Jetpack</h3>
+<h3 align="center">Android Mobile App Developer | Kotlin | Java | Jetpack Compose</h3>
 
 ---
 
@@ -31,9 +33,9 @@
 
 <!-- Replace or update these with your actual top projects -->
 <p align="center">
-  <a href="https://github.com/tanvir2306?tab=repositories&q=&type=source&sort=stargazers"><img src="https://github-readme-stats.vercel.app/api/pin/?username=tanvir2306&repo=project1" alt="Project 1" /></a>
-  <a href="https://github.com/tanvir2306?tab=repositories&q=&type=source&sort=stargazers"><img src="https://github-readme-stats.vercel.app/api/pin/?username=tanvir2306&repo=project2" alt="Project 2" /></a>
-  <a href="https://github.com/tanvir2306?tab=repositories&q=&type=source&sort=stargazers"><img src="https://github-readme-stats.vercel.app/api/pin/?username=tanvir2306&repo=project3" alt="Project 3" /></a>
+  <a href="[https://github.com/tanvir2330/Recycler-view-main"><img src="https://github-readme-stats.vercel.app/api/pin/?username=tanvir2306&repo=project1" alt="Project 1" /></a>
+  <a href="[https://github.com/tanvir2330/My-Favorite-Qoutes"><img src="https://github-readme-stats.vercel.app/api/pin/?username=tanvir2306&repo=project2" alt="Project 2" /></a>
+  <a href="[https://github.com/tanvir2330/Task-Management-App"><img src="https://github-readme-stats.vercel.app/api/pin/?username=tanvir2306&repo=project3" alt="Project 3" /></a>
   <a href="https://github.com/tanvir2306?tab=repositories&q=&type=source&sort=stargazers"><img src="https://github-readme-stats.vercel.app/api/pin/?username=tanvir2306&repo=project4" alt="Project 4" /></a>
   <a href="https://github.com/tanvir2306?tab=repositories&q=&type=source&sort=stargazers"><img src="https://github-readme-stats.vercel.app/api/pin/?username=tanvir2306&repo=project5" alt="Project 5" /></a>
 </p>
