@@ -1,6 +1,6 @@
 <!-- Profile Header -->
 <div align="center">
-  <img src="https://github.com/tanvir2306/tanvir2306/raw/main/header.png" width="800" alt="Profile Banner"/>
+  <img src="Beige Simple Round Photo Valentines Card (1).png" width="800" alt="Profile Banner"/>
 </div>
 
 <h1 align="center">Hi, I'm Tanvir Haider 👋</h1>
