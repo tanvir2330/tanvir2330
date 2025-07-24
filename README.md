@@ -22,7 +22,7 @@
 
 - 🔭 Android mobile app developer passionate about crafting seamless user experiences.
 - 🛠️ Skilled in **Kotlin**, **Java**, and **Jetpack**.
-- 📱 Built 5+ high-quality Android projects — see my pinned repos below!
+- 📱 Built 3+ high-quality Android projects — see my pinned repos below!
 - 🤝 I love connecting with people who share common ideologies and building strong, meaningful relationships.
 - 💡 Always open to sharing thoughts and learning from others.
 - ⚡ Fun fact: #coding
@@ -33,11 +33,9 @@
 
 <!-- Replace or update these with your actual top projects -->
 <p align="center">
-  <a href="[https://github.com/tanvir2330/Recycler-view-main"><img src="https://github-readme-stats.vercel.app/api/pin/?username=tanvir2306&repo=project1" alt="Project 1" /></a>
-  <a href="[https://github.com/tanvir2330/My-Favorite-Qoutes"><img src="https://github-readme-stats.vercel.app/api/pin/?username=tanvir2306&repo=project2" alt="Project 2" /></a>
-  <a href="[https://github.com/tanvir2330/Task-Management-App"><img src="https://github-readme-stats.vercel.app/api/pin/?username=tanvir2306&repo=project3" alt="Project 3" /></a>
-  <a href="https://github.com/tanvir2306?tab=repositories&q=&type=source&sort=stargazers"><img src="https://github-readme-stats.vercel.app/api/pin/?username=tanvir2306&repo=project4" alt="Project 4" /></a>
-  <a href="https://github.com/tanvir2306?tab=repositories&q=&type=source&sort=stargazers"><img src="https://github-readme-stats.vercel.app/api/pin/?username=tanvir2306&repo=project5" alt="Project 5" /></a>
+  <a href="https://github.com/tanvir2330/NoteApp.git"><img src="https://github.com/tanvir2330/Messenger-Clone/edit/main/README.md" /></a>
+  <a href="https://github.com/tanvir2330/Messenger-Clone"><img src="https://github.com/tanvir2330/NoteApp/tree/main#readme" /></a>
+  <a href="https://github.com/tanvir2330/Messenger-Clone"><img src="https://github.com/tanvir2330/QuranApp/tree/main#readme" /></a>
 </p>
 
 ---
