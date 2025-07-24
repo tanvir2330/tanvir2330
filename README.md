@@ -33,9 +33,13 @@
 
 <!-- Replace or update these with your actual top projects -->
 <p align="center">
-  <a href="https://github.com/tanvir2330/NoteApp.git"><img src="https://github.com/tanvir2330/Messenger-Clone/edit/main/README.md" /></a>
-  <a href="https://github.com/tanvir2330/Messenger-Clone"><img src="https://github.com/tanvir2330/NoteApp/tree/main#readme" /></a>
-  <a href="https://github.com/tanvir2330/Messenger-Clone"><img src="https://github.com/tanvir2330/QuranApp/tree/main#readme" /></a>
+
+  
+  <a href="https://github.com/tanvir2330/NoteApp.git">Note App</a>
+
+  <a href="https://github.com/tanvir2330/Messenger-Clone"> Mesenger Clone</a>
+  
+  <a href="https://github.com/tanvir2330/QuranApp/tree/main#readme"> Quran App </a>
 </p>
 
 ---
