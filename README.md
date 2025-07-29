@@ -36,7 +36,7 @@
 ## 🧑‍💻 Learning Path
 
 - I started my coding journey with **Kotlin**, and it's currently my strongest language.
-- I also have basic knowledge of **C** and **Python**.
+- I also have basic knowledge of **Java** and **Python**.
 
 ---
 
